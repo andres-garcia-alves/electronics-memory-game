@@ -44,11 +44,12 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 
 ### Version History
 
-Version 1.0, 2023.03.08 - Initial release.  
-Version 1.1, 2023.03.09 - Refactor for mudularity (adding concept of micro-commands for user inteccions).  
-Version 1.2, 2023.03.10 - Improved animations.  
-Version 1.3, 2023.03.15 - Pinout rearrange for easy soldering.  
-Version 1.4, 2023.03.18 - Adding game finished sequence.
+v1.0 (2023.03.08) - Initial release.  
+v1.1 (2023.03.09) - Refactor for mudularity (adding concept of micro-commands for user inteccions).  
+v1.2 (2023.03.10) - Improved animations.  
+v1.3 (2023.03.15) - Pinout rearrange for easy soldering.  
+v1.4 (2023.03.18) - Adding game finished sequence.
+v1.5 (2025.12.20) - Update project structure.
 
 &nbsp;
 

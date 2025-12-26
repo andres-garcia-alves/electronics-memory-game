@@ -15,12 +15,12 @@
 
 // LEDs, bottons & other pins
 #define LED_RED         12
-#define LED_BLUE        8
+#define LED_BLUE        10
 #define LED_YELLOW      5
-#define LED_GREEN       4
+#define LED_GREEN       3
 #define BUTTON_RED      11
-#define BUTTON_BLUE     10
-#define BUTTON_YELLOW   3
+#define BUTTON_BLUE     8
+#define BUTTON_YELLOW   4
 #define BUTTON_GREEN    2
 
 #define BUZZER          0

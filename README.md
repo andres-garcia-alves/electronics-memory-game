@@ -30,19 +30,19 @@ Please check `Definitions.h` and adjust configured display pins to your own disp
 
 | Prototype                                      | Building                                       |
 |------------------------------------------------|------------------------------------------------|
-| ![](Resources/04-prototype-01.jpg)             | ![](Resources/05-building-01.jpg)              |
+| ![](Resources/05-prototype-01.jpg)             | ![](Resources/06-building-01.jpg)              |
 
 | Building                                       | Building (Finished)                            |
 |------------------------------------------------|------------------------------------------------|
-| ![](Resources/05-building-02.jpg)              | ![](Resources/06-building-finished-01.jpg)     |
+| ![](Resources/06-building-02.jpg)              | ![](Resources/07-building-finished-01.jpg)     |
 
 | Building (Finished)                            | Box Shaping                                    |
 |------------------------------------------------|------------------------------------------------|
-| ![](Resources/06-building-finished-02.jpg)     | ![](Resources/07-box-shaping.jpg)              |
+| ![](Resources/07-building-finished-02.jpg)     | ![](Resources/08-box-shaping.jpg)              |
 
 | Project Final                                  | Project Final (YouTube video)                  |
 |------------------------------------------------|------------------------------------------------|
-| ![](Resources/08-project-final-02.jpg)         | [![](Resources/08-project-final-03.jpg)](https://youtu.be/qu201MSCXys) |
+| ![](Resources/09-project-final-02.jpg)         | [![](Resources/09-project-final-03.jpg)](https://youtu.be/qu201MSCXys) |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 

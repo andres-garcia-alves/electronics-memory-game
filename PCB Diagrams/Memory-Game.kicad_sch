@@ -6409,7 +6409,7 @@
 				)
 			)
 		)
-		(property "Value" "Display_7S_CC_DIP10_5621AS-1"
+		(property "Value" "Display_5621AS"
 			(at 104.14 55.88 0)
 			(effects
 				(font

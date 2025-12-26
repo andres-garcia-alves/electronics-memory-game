@@ -6,7 +6,7 @@ Arduino code for a 4 coloured memory game (Simon)
 
 This project use the following electronic components:
 - 1 x Arduino Nano v3
-- 1 x Display 7-segments 2 digits (common catode)
+- 1 x Display 5621AS-1, 7-segments, 2-digit, common catode
 - 4 x LEDs (red, blue, yellow & green)
 - 1 x Buzzer
 - 5 x Push-button
@@ -14,7 +14,8 @@ This project use the following electronic components:
 - 4 x 330 ohm resistors
 - 1 x Batery 9v
 
-Please check `Definitions.h` and adjust configured display pins to your own display model.
+Notes:
+- Edit `Definitions.h` to adjust configured display pins to your own display model.
 
 &nbsp;
 
